@@ -2,6 +2,15 @@ body {
   text-align: center;
 }
 
+h1{
+  font-family: 'Lobster', cursive;
+}
+
+.ol{
+  font-family: 'Dosis', sans-serif;
+
+}
+
 #krieger{
     width: 400px;
     height = auto;
